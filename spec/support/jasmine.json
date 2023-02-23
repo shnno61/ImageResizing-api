@@ -1,0 +1,11 @@
+{
+  "spec_dir": "dist/tests",
+  "spec_files": [
+      "iscashedSpec.js","apiSpec.js","imageSpec.js"
+  ],
+  "helpers": [
+      "helper/reporter.js"
+  ],
+  "stopSpecOnExpectationFailure": false,
+  "random": false
+}
