@@ -3,9 +3,9 @@
 -----------------------------------------------------------
 
 ## To use  
---drag an image in folder ./src/images first
+- drag an image in folder ./src/images first
 
---enter the following URL in the browser 
+- enter the following URL in the browser 
    localhose:400/api?name=name of the image &width=needed width &hight=needed hight    --it is a valid endpoint
 
 ------------------------------------------------------------
